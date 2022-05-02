@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sitery
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Javascript and Kotlin
+- 🌱 I’m currently working as a software developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me matt@sitery.dev
 
